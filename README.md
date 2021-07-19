@@ -1,1 +1,2 @@
-# m2-CLI-naruto-quiz
+# markTwo - Naruto Quiz ✅
+## Play if you're a Naruto fan
