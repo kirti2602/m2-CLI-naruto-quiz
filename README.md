@@ -1,2 +1,2 @@
 # markTwo - Naruto Quiz ✅
-## Play if you're a Naruto fan
+## Play if you're a Naruto fan 🍜
